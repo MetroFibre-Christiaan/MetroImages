@@ -1,8 +1,8 @@
 # MetroImages
 ## Favicon
-![favicon](/logo/ico.png)
+![favicon](/logo/favicon.ico)
 
-https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/logo/ico.png
+https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/logo/favicon.ico
 
 ## Loading 
 1. Spinner
