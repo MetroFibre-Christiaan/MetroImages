@@ -25,3 +25,9 @@ https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/logo/
     ![Spinner](/loading/loading3.svg)
     
     https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/loading/loading3.svg
+
+## Success
+
+    ![Success](/success/success.png)
+    
+    https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/success/success.png
