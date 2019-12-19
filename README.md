@@ -28,6 +28,6 @@ https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/logo/
 
 ## Success
 
-    ![Success](/success/success.png)
-    
-    https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/success/success.png
+![Success](/success/success.png)
+
+https://raw.githubusercontent.com/MetroFibre-Christiaan/MetroImages/master/success/success.png
