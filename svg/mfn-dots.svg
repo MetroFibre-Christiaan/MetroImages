@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
      id="namedview4650"
      showgrid="false"
      units="px"
@@ -47,9 +47,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="5.9617651"
-     inkscape:cx="24.633906"
+     inkscape:cx="-3.9650068"
      inkscape:cy="19.565135"
-     inkscape:window-x="-8"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4646" />
@@ -62,232 +62,252 @@
        cy="215.09322"
        r="0.9126159"
        id="circle4560"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="119.47615"
        cy="217.29747"
        r="0.9126159"
        id="circle4562"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="120.73438"
        cy="219.49226"
        r="0.9126159"
        id="circle4564"
-       style="fill:#58585a;stroke-width:0.24091592" />
+       style="fill:#009cde;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="121.9926"
        cy="221.69652"
        r="0.9126159"
        id="circle4566"
-       style="fill:#58585a;stroke-width:0.24091592" />
+       style="fill:#009cde;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="119.47615"
        cy="212.89844"
        r="0.9126159"
        id="circle4568"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="120.73438"
        cy="215.09322"
        r="0.9126159"
        id="circle4570"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <g
        id="g4578"
-       style="fill:#58585a"
+       style="fill:#009cde;fill-opacity:1"
        transform="matrix(0.94602966,0,0,0.94602966,6.3310083,11.110312)">
       <circle
          cx="122.26"
          cy="217.95"
          r="0.96468002"
-         id="circle4572" />
+         id="circle4572"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="123.59"
          cy="220.27"
          r="0.96468002"
-         id="circle4574" />
+         id="circle4574"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="124.92"
          cy="222.60001"
          r="0.96468002"
-         id="circle4576" />
+         id="circle4576"
+         style="fill:#009cde;fill-opacity:1" />
     </g>
     <g
        id="g4590"
-       style="fill:#009bdb"
+       style="fill:#53565a;fill-opacity:1"
        transform="matrix(0.94602966,0,0,0.94602966,6.3310083,11.110312)">
       <circle
          cx="120.93"
          cy="210.97"
          r="0.96468002"
-         id="circle4580" />
+         id="circle4580"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="122.26"
          cy="213.3"
          r="0.96468002"
-         id="circle4582" />
+         id="circle4582"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="123.59"
          cy="215.62"
          r="0.96468002"
-         id="circle4584" />
+         id="circle4584"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="124.92"
          cy="217.95"
          r="0.96468002"
-         id="circle4586" />
+         id="circle4586"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="126.26"
          cy="220.27"
          r="0.96468002"
-         id="circle4588" />
+         id="circle4588"
+         style="fill:#53565a;fill-opacity:1" />
     </g>
     <circle
        cx="127.03493"
        cy="221.69652"
        r="0.9126159"
        id="circle4592"
-       style="fill:#58585a;stroke-width:0.24091592" />
+       style="fill:#009cde;stroke-width:0.24091592;fill-opacity:1" />
     <g
        id="g4604"
-       style="fill:#009bdb"
+       style="fill:#53565a;fill-opacity:1"
        transform="matrix(0.94602966,0,0,0.94602966,6.3310083,11.110312)">
       <circle
          cx="122.26"
          cy="208.64999"
          r="0.96468002"
-         id="circle4594" />
+         id="circle4594"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="123.59"
          cy="210.97"
          r="0.96468002"
-         id="circle4596" />
+         id="circle4596"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="124.92"
          cy="213.3"
          r="0.96468002"
-         id="circle4598" />
+         id="circle4598"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="126.26"
          cy="215.62"
          r="0.96468002"
-         id="circle4600" />
+         id="circle4600"
+         style="fill:#53565a;fill-opacity:1" />
       <circle
          cx="127.59"
          cy="217.95"
          r="0.96468002"
-         id="circle4602" />
+         id="circle4602"
+         style="fill:#53565a;fill-opacity:1" />
     </g>
     <g
        id="g4614"
-       style="fill:#58585a"
+       style="fill:#009cde;fill-opacity:1"
        transform="matrix(0.94602966,0,0,0.94602966,6.3310083,11.110312)">
       <circle
          cx="128.92"
          cy="220.27"
          r="0.96468002"
-         id="circle4606" />
+         id="circle4606"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="130.25"
          cy="222.60001"
          r="0.96468002"
-         id="circle4608" />
+         id="circle4608"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="124.92"
          cy="208.64999"
          r="0.96468002"
-         id="circle4610" />
+         id="circle4610"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="126.26"
          cy="210.97"
          r="0.96468002"
-         id="circle4612" />
+         id="circle4612"
+         style="fill:#009cde;fill-opacity:1" />
     </g>
     <circle
        cx="127.03493"
        cy="212.89844"
        r="0.9126159"
        id="circle4616"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <circle
        cx="128.29315"
        cy="215.09322"
        r="0.9126159"
        id="circle4618"
-       style="fill:#009bdb;stroke-width:0.24091592" />
+       style="fill:#53565a;stroke-width:0.24091592;fill-opacity:1" />
     <g
        id="g4626"
-       style="fill:#58585a"
+       style="fill:#009cde;fill-opacity:1"
        transform="matrix(0.94602966,0,0,0.94602966,6.3310083,11.110312)">
       <circle
          cx="130.25"
          cy="217.95"
          r="0.96468002"
-         id="circle4620" />
+         id="circle4620"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="131.58"
          cy="220.27"
          r="0.96468002"
-         id="circle4622" />
+         id="circle4622"
+         style="fill:#009cde;fill-opacity:1" />
       <circle
          cx="127.59"
          cy="208.64999"
          r="0.96468002"
-         id="circle4624" />
+         id="circle4624"
+         style="fill:#009cde;fill-opacity:1" />
     </g>
     <g
        id="g4644"
-       style="fill:#009bdb"
+       style="fill:#53565a;fill-opacity:1"
        transform="translate(0,0.14279916)">
       <circle
          cx="128.29315"
          cy="210.55139"
          r="0.9126159"
          id="circle4628"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="129.55138"
          cy="212.75565"
          r="0.9126159"
          id="circle4630"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="130.80959"
          cy="214.95042"
          r="0.9126159"
          id="circle4632"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="132.06781"
          cy="217.15468"
          r="0.9126159"
          id="circle4634"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="129.55138"
          cy="208.3566"
          r="0.9126159"
          id="circle4636"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="130.80959"
          cy="210.55139"
          r="0.9126159"
          id="circle4638"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="132.06781"
          cy="212.75565"
          r="0.9126159"
          id="circle4640"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
       <circle
          cx="133.32603"
          cy="214.95042"
          r="0.9126159"
          id="circle4642"
-         style="stroke-width:0.24091592" />
+         style="stroke-width:0.24091592;fill:#53565a;fill-opacity:1" />
     </g>
   </g>
 </svg>
